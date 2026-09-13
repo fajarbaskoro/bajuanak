@@ -1,0 +1,6 @@
+{
+  "name": "Ceria Kids",
+  "description": "Koleksi pakaian harian anak & bayi bahan katun combed 100% adem, nyaman, dan ramah di kantong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
